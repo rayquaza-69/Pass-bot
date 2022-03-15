@@ -40,12 +40,12 @@ L1 = L2[:]
 resp = input('''1) Get password
 2) Get random 6 digit key code
 3) Create a new password database
-4) Edit record
+4) Record
 
 #If you are running this script for the first time, go with option 3 
 #If you are going for option 1 please make sure you copied your keyfile in this directory
 
-Response(1,2,3): ''')
+Response(1,2,3,4): ''')
 
 print()
 
